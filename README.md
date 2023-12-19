@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on secret projects
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, Go and Python
 - 👯 I’m looking to collaborate on Web Development
 
 
